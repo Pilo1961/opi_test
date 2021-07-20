@@ -50,6 +50,7 @@ Tampoco se aprecia ningún comportamiento estacional en la gráfica de los preci
 </p>
 
 * Los estados más caros y durante que mes se muestran a continuación:
+
 | id |estado          |month |avg_price|
 |-|-|-|-|
 |1 | SAN LUIS POTOSI|     3|      42.7|
@@ -57,5 +58,6 @@ Tampoco se aprecia ningún comportamiento estacional en la gráfica de los preci
 |3 |GUERRERO        |   12 |      42.6|
 |4 |SAN LUIS POTOSI |    2 |      42.2|
 |5 |SAN LUIS POTOSI |   12 |      42.1|
+
 
 * Los riesgos de analizar series de tiempo con estos datos es que estamos observando cuentas de observaciones que se tomaron sin tener un patrón claro. Esto puede llevarnos a sesgos por aumentos de observaciones en algunos lugares y falta de revisión en otros lugares.
